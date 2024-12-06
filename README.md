@@ -294,4 +294,4 @@ Before setting up the project, make sure you have the following installed on you
 Clone the project repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/yourusername/mental-health-wellness-platform.git
+git clone https://github.com/yourusername//Serenify-Version-1.0.git
