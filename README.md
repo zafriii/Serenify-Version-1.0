@@ -104,7 +104,7 @@ Welcome to the **Mental Health Wellness Platform**! This user guide will help yo
    - If you forget your password, use the **Forgot Password** feature to reset it via email verification.
 
 2. **Profile Setup**  
-   - After logging in, visit your **Profile** page where you can update your personal details like name, email, and profile picture.  
+   - After logging in, visit your **Profile** page where you can update your personal details like name, phone, and password.  
    - You can also view your activity history through the **Profile Timeline**.  
    - Ensure to verify your account via **OTP** (One Time Password) sent to your email for added security.
 
@@ -114,7 +114,7 @@ Welcome to the **Mental Health Wellness Platform**! This user guide will help yo
 
 ### 1. **AI Chatbot for Empathetic Conversations**
    - Engage with the AI chatbot, which will respond based on your current mood.  
-   - Simply type in your feelings or mood, and the chatbot will provide empathetic responses powered by the **Gemini API**.
+   - Simply select your feelings or mood, and the chatbot will provide empathetic responses powered by the **Gemini API**.
 
 ### 2. **Secure Note System**
    - Create personal notes that are completely private to you.  
@@ -137,7 +137,7 @@ Welcome to the **Mental Health Wellness Platform**! This user guide will help yo
 
 ### 1. **Finding a Therapist**
    - Use the **Therapist Booking System** to find a therapist in Bangladesh.  
-   - You can filter therapists by location, expertise, or availability.
+   - You can search therapists by expertise.
 
 ### 2. **Making an Appointment**
    - Select a therapist and book an appointment directly through the platform.  
@@ -172,13 +172,13 @@ Welcome to the **Mental Health Wellness Platform**! This user guide will help yo
    - Follow yoga instructions to help you achieve relaxation and improve mental well-being.
 
 ### 3. **Live Emotion Detection**
-   - The **Live Emotion Detector** uses **Face API** to detect your emotions in real-time and suggest appropriate activities or responses.
+   - The **Live Emotion Detector** uses **Face API** to detect your emotions in real-time.
 
 ### 4. **Stress Management Quiz**
    - Take the **Stress Management Quiz** to assess your stress levels and learn ways to handle stress more effectively.
 
 ### 5. **Motivational Quote Generator**
-   - Get personalized **motivational quotes** to lift your spirits whenever you need inspiration.
+   - Get **motivational quotes** to lift your spirits whenever you need inspiration.
 
 ---
 
@@ -191,7 +191,7 @@ Welcome to the **Mental Health Wellness Platform**! This user guide will help yo
 
 ## 🛠️ Support and Feedback
 
-If you encounter any issues or have feedback, you can reach out to us through the **Help & Support** section on the platform. We are always here to help improve your experience!
+If you encounter any issues or have feedback, you can reach out to us through the **Feedback** section on the platform. We are always here to help improve your experience!
 
 Enjoy using the **Mental Health Wellness Platform** and take steps toward a healthier and happier life! 😊
 
