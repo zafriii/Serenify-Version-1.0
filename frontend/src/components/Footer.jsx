@@ -41,6 +41,9 @@ const Footer = () => {
             <li>
               <NavLink to='/therapists'>Our Professionals</NavLink>
             </li>
+            <li>
+              <NavLink to='/help'>Help & Support</NavLink>
+            </li>
           </ul>
         </div>
 
