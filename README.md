@@ -202,3 +202,75 @@ Enjoy using the **Mental Health Wellness Platform** and take steps toward a heal
 </a>
 
 
+
+
+
+
+## Architecture Explanation
+
+The **Mental Health Wellness Platform** follows a multi-layered client-server architecture, with separate layers for the frontend, backend, and database, ensuring a modular, scalable, and secure system. Below is a detailed breakdown of the architecture:
+
+### **1. Frontend (Client-Side)**
+
+- **Technology**: **React.js**, **WebSocket**, **Face API**, **Chart.js/D3.js**
+- **Purpose**: Provides a responsive and interactive user interface to allow users to access and interact with the platform.
+    - **Components**:
+        - **User Authentication Pages**: For user login, signup, and password reset.
+        - **Profile Management**: Allows users to manage their profile and see activity history.
+        - **AI Chatbot**: Provides empathetic responses based on mood, utilizing the Gemini API.
+        - **Secure Notes**: Enables users to store private notes.
+        - **Mental Health Analyzer**: Displays mood data with interactive charts for users to track their emotional health over time.
+        - **Breathing Meditation Tool**: Guides users through meditation exercises.
+        - **Emotion Detector**: Uses the Face API for real-time facial emotion detection.
+        - **Motivational Content**: Provides motivational quotes.
+
+    - **Features**:
+        - **Responsive Design**: Ensures compatibility across various devices.
+        - **Real-Time Communication**: WebSocket integration for real-time chat and notifications.
+        - **Interactive Elements**: Features like mood tracking and activity feedback.
+
+---
+
+### **2. Backend (Server-Side)**
+
+- **Technology**: **Node.js**, **Express.js**, **WebSocket Server**
+- **Purpose**: Handles business logic, data processing, user authentication, and manages communication between the frontend and database.
+    - **Components**:
+        - **User Authentication**: Manages user registration, login, and session management via JWT.
+        - **Profile Management**: Handles user data storage, including profile updates.
+        - **Real-Time Communication**: Handles community chat and instant messaging via WebSocket.
+        - **Mental Health Data**: Stores mood data and visualizes it through interactive charts.
+        - **Notification System**: Sends real-time notifications for actions like comments, reactions, and therapist responses.
+
+    - **Features**:
+        - **API Endpoints**: Exposes RESTful APIs for user login, profile management, mood data, etc.
+        - **Data Validation & Security**: Ensures that sensitive data is validated, protected, and securely stored.
+        - **Real-Time Updates**: WebSocket-powered notifications and chat functionality.
+
+---
+
+### **3. Database Layer**
+
+- **Technology**: **MongoDB**
+- **Purpose**: Stores user data, mood tracking information, posts, and other platform-related data.
+    - **Components**:
+        - **User Data**: Stores personal information, authentication data, and preferences.
+        - **Posts**: Stores posts and anonymous interactions.
+        - **Secure Notes**: Stores user notes in an encrypted format.
+        - **Therapist Data**: Includes therapist availability, profiles, and appointment history.
+        - **Mood Data**: Tracks mood data over time and provides insights for the Mental Health Analyzer.
+        - **Notifications**: Stores notifications for comments, replies, and other user interactions.
+
+    - **Features**:
+        - **Document-Based Structure**: Allows flexible data storage and management.
+        - **Data Security**: Ensures that sensitive information is encrypted and protected.
+        - **Scalability**: Can handle large amounts of user data and interactions.
+
+---
+
+### **4. External Integrations and APIs**
+
+- **Gemini API**: Used to provide empathetic responses and mood-based interactions in the AI Chatbot.
+- **Face API**: Used for real-time facial emotion detection in the Live Emotion Detector.
+- **WebSocket**: Utilized for real-time communication within the platform (e.g., anonymous chat, notifications).
+
