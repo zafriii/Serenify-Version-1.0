@@ -55,10 +55,10 @@ A comprehensive web application designed to support mental well-being by offerin
 ## 🎨 **Frontend Features**
 - **Breathing Meditation Tool**: Predefined and custom timers for guided breathing exercises.
 - **Yoga Instructions**: Learn and follow yoga techniques.
-- **Current Mood Tracker**: Log and monitor your mood in real-time.
+- **Current Mood Tracker**: calculate and monitor your current mood & current mood progress.
 - **Live Emotion Detector**: Detect emotions using **Face API**.
 - **Appointment Filter**: View total appointments for specific therapists.
-- **Stress Management Quiz**: Interactive quiz for stress management tips.
+- **Stress Management Quiz**: Interactive quiz on stress encounter.
 - **Motivational Quote Generator**: Generate quotes for motivation.
 
 ---
