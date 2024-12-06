@@ -274,3 +274,24 @@ The **Mental Health Wellness Platform** follows a multi-layered client-server ar
 - **Face API**: Used for real-time facial emotion detection in the Live Emotion Detector.
 - **WebSocket**: Utilized for real-time communication within the platform (e.g., anonymous chat, notifications).
 
+
+
+## Setup Instructions
+
+Follow the steps below to set up **Serenify** on your local machine:
+
+### **Prerequisites**
+
+Before setting up the project, make sure you have the following installed on your system:
+
+- **Node.js** (v14 or higher) - [Install Node.js](https://nodejs.org/)
+- **npm** (Node Package Manager) - Comes bundled with Node.js
+- **MongoDB** - [Install MongoDB](https://www.mongodb.com/try/download/community)
+- **Git** - [Install Git](https://git-scm.com/)
+
+### **Step 1: Clone the Repository**
+
+Clone the project repository to your local machine using the following command:
+
+```bash
+git clone https://github.com/yourusername/mental-health-wellness-platform.git
