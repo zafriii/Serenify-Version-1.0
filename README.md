@@ -197,6 +197,8 @@ Enjoy using the **Mental Health Wellness Platform** and take steps toward a heal
 
 
 
--Click on the image to see a demo video of the site
-[![Watch the Demo](https://i.ibb.co/Mgns5Qb/image.png/1000x860.png?text=Video+Demo)](https://drive.google.com/file/d/1kV5YAs7Imdc0qaTYW4h7aBjLg5kgms9F)
+<a href="https://drive.google.com/file/d/1kV5YAs7Imdc0qaTYW4h7aBjLg5kgms9F">
+    <img src="https://i.ibb.co/3T17YQw/image.png" alt="Watch the Demo" style="max-width: 100%; height: auto;" />
+</a>
+
 
