@@ -49,10 +49,8 @@ function Herosec() {
 const Loader = () => (
 
 <div id="loader">
-    <div className="spinner">
-    <h1>Nurturing Serenity...</h1>
-    </div>
-    
+    <div className="spinner"</div>
+   <h1>Nurturing Serenity...</h1>    
   </div>
 );
 
