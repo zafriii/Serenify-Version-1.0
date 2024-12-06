@@ -191,9 +191,9 @@ Welcome to the **Mental Health Wellness Platform**! This user guide will help yo
 
 ## 🛠️ Support and Feedback
 
-If you encounter any issues or have feedback, you can reach out to us through the **Feedback** section on the platform. We are always here to help improve your experience!
+If you encounter any issues or have feedback, you can reach out to us through the **Help & Support** section on the platform. We are always here to help improve your experience!
 
-Enjoy using the **Mental Health Wellness Platform** and take steps toward a healthier and happier life! 😊
+Enjoy using the ** Serenify - Mental Health Wellness Platform** and take steps toward a healthier and happier life! 😊
 
 
 <h2>Click on the image to see a demo video of the site</h2>
