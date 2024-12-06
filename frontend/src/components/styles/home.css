@@ -640,7 +640,7 @@
 
 #loader {
     position: fixed;
-    top: 50%;
+    top: 10%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
@@ -665,7 +665,6 @@
     text-shadow: 2px 2px 4px #3897a0;
     opacity: 0;
     animation: fadeIn 0.7s forwards; 
-    margin-top: 50%;
 }
 
 #loader h1:nth-child(1) {
