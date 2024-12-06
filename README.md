@@ -1,4 +1,4 @@
-# 🧠 Mental Health Wellness Platform
+# 🧠 Serenify- Mental Health Wellness Platform
 
 A comprehensive web application designed to support mental well-being by offering personalized tools, community engagement, and professional resources. This project integrates cutting-edge features to provide users with a safe and empathetic digital space.
 
@@ -92,7 +92,7 @@ A comprehensive web application designed to support mental well-being by offerin
 
 
 
-# 🧠 User Guide: Mental Health Wellness Platform
+# 🧠 User Guide: Serenify
 
 Welcome to the **Mental Health Wellness Platform**! This user guide will help you navigate through the platform and make the most out of its features.
 
