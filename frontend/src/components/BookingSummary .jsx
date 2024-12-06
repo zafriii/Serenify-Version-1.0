@@ -154,9 +154,6 @@ const BookingSummary = () => {
     )}
     </div>
 
-
-            <Feedback />
-
             <Footer />
         </>
     );
