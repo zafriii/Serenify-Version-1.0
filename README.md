@@ -198,5 +198,5 @@ Enjoy using the **Mental Health Wellness Platform** and take steps toward a heal
 
 
 
-[![Watch the Demo](https://i.ibb.co/Mgns5Qb/image.png/640x360.png?text=Video+Demo)](https://drive.google.com/file/d/1kV5YAs7Imdc0qaTYW4h7aBjLg5kgms9F)
+[![Watch the Demo](https://i.ibb.co/Mgns5Qb/image.png/1000x860.png?text=Video+Demo)](https://drive.google.com/file/d/1kV5YAs7Imdc0qaTYW4h7aBjLg5kgms9F)
 
