@@ -195,3 +195,7 @@ If you encounter any issues or have feedback, you can reach out to us through th
 
 Enjoy using the **Mental Health Wellness Platform** and take steps toward a healthier and happier life! 😊
 
+
+
+
+[![Watch the Demo](https://i.ibb.co.com/Mgns5Qb/image.png)](https://ibb.co.com/Mgns5Qb)
