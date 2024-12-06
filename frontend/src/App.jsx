@@ -26,6 +26,7 @@ import DoctorDetails from './components/DoctorDetails'
 import BookingSummary from './components/BookingSummary '
 import MoodAnalyzer from './components/MoodAnalyzer'
 import OTPVerification from './components/OTPVerification'
+import HelpSupportPage from './components/HelpSupportPage'
 
 function App() {
  
@@ -42,7 +43,6 @@ function App() {
             <Route path='/chats' element={<Chats/>}/>
             <Route path='/medication' element={<Medication/>}/>
             <Route path='/articles' element={<Articles/>}/>
-            {/* <Route path='/stories' element={<Stories/>}/> */}
             <Route path='/emotion_detector' element={<EmotionDetector/>}/>
             <Route path='/tips' element={<Tips/>}/>
             <Route path='/quiz' element={<Quiz/>}/>
@@ -55,24 +55,22 @@ function App() {
             <Route path='/update_profile' element={<Updateprofile/>}/>
             <Route path='/posts' element={<Posts/>}/>
             <Route path="/post/:id" element={<SinglePost/>}/>
-            <Route path='/posts/:postId' element={<Userpost/>} />
-            <Route path='/*' element={<Error/>} />
-             <Route path="/forgot-password" element={<ForgotPassword/>} />
-             <Route path="/reset-password/:resetToken" element={<ResetPassword/>}/>
+            <Route path='/posts/:postId' element={<Userpost/>} />          
+            <Route path="/forgot-password" element={<ForgotPassword/>} />
+            <Route path="/reset-password/:resetToken" element={<ResetPassword/>}/>
             <Route path="/therapists" element={<DoctorList/>} />
             <Route path="/doctors/:id" element={<DoctorDetails/>} />
             <Route path="/booking_details" element={<BookingSummary/>} />
             <Route path="/mood_analyzer" element={<MoodAnalyzer/>} />
             <Route path="/verify-account" element={<OTPVerification/>} />
-
+            <Route path="/help" element={<HelpSupportPage/>} />
+            <Route path='/*' element={<Error/>} />
             
         </Routes>    
 
     </BrowserRouter>
 
     
-
-
     </>
   )
 }
