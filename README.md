@@ -13,7 +13,7 @@ A comprehensive web application designed to support mental well-being by offerin
 ### 2. **Profile Management**
 - Update profile details easily.
 - Detailed **profile timeline** to view user activity history.
-- **Email OTP verification** for secure updates.
+- **Email OTP verification** for account verify.
 
 ### 3. **AI Chatbot**
 - Engage in empathetic conversations with mood-based responses.
