@@ -197,7 +197,7 @@ Enjoy using the ** Serenify - Mental Health Wellness Platform** and take steps t
 
 
 <h2>Click on the image to see a demo video of the site</h2>
-<a href="https://drive.google.com/file/d/1kV5YAs7Imdc0qaTYW4h7aBjLg5kgms9F">
+<a href="https://drive.google.com/file/d/18-yB9nYrM3g9oHec0L5hFNJeJienBkDk">
     <img src="https://i.ibb.co/3T17YQw/image.png" alt="Watch the Demo" style="max-width: 100%; height: auto;" />
 </a>
 
