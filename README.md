@@ -272,7 +272,7 @@ The **Mental Health Wellness Platform** follows a multi-layered client-server ar
 
 - **Gemini API**: Used to provide empathetic responses and mood-based interactions in the AI Chatbot.
 - **Face API**: Used for real-time facial emotion detection in the Live Emotion Detector.
-- **WebSocket**: Utilized for real-time communication within the platform (e.g., anonymous chat, notifications).
+- **WebSocket**: Utilized for real-time communication within the platform (e.g., Anonymous community chat).
 
 
 
