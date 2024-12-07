@@ -286,7 +286,7 @@ Before setting up the project, make sure you have the following installed on you
 
 - **Node.js** (v14 or higher) - [Install Node.js](https://nodejs.org/)
 - **npm** (Node Package Manager) - Comes bundled with Node.js
-- **MongoDB** - [Install MongoDB](https://www.mongodb.com/try/download/community)
+- **MongoDB** - [Install MongoDB](https://www.mongodb.com/try/download/community) or use MongoDB Atlas
 - **Git** - [Install Git](https://git-scm.com/)
 
 ### **Step 1: Clone the Repository**
