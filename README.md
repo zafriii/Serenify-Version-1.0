@@ -1,3 +1,9 @@
+<h2>Click on the image to see a demo video of the site</h2>
+<a href="https://drive.google.com/file/d/18-yB9nYrM3g9oHec0L5hFNJeJienBkDk">
+    <img src="https://i.ibb.co/3T17YQw/image.png" alt="Watch the Demo" style="max-width: 100%; height: auto;" />
+</a>
+
+
 # 🧠 Serenify- Mental Health Wellness Platform
 
 A comprehensive web application designed to support mental well-being by offering personalized tools, community engagement, and professional resources. This project integrates cutting-edge features to provide users with a safe and empathetic digital space.
@@ -194,16 +200,6 @@ Welcome to the **Mental Health Wellness Platform**! This user guide will help yo
 If you encounter any issues or have feedback, you can reach out to us through the **Help & Support** section on the platform. We are always here to help improve your experience!
 
 Enjoy using the ** Serenify - Mental Health Wellness Platform** and take steps toward a healthier and happier life! 😊
-
-
-<h2>Click on the image to see a demo video of the site</h2>
-<a href="https://drive.google.com/file/d/18-yB9nYrM3g9oHec0L5hFNJeJienBkDk">
-    <img src="https://i.ibb.co/3T17YQw/image.png" alt="Watch the Demo" style="max-width: 100%; height: auto;" />
-</a>
-
-
-
-
 
 
 ## Architecture Explanation
