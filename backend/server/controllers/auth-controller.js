@@ -208,7 +208,7 @@ const forgotPassword = async (req, res) => {
       // Generate reset token
       const resetToken = jwt.sign({ email }, process.env.JWT_SECRET_KEY, { expiresIn: "1h" });
 
-      const resetUrl = `https//localhost:5173/reset-password/${resetToken}`;
+      const resetUrl = `http//localhost:5173/reset-password/${resetToken}`;
   
       // Configure the email transporter
       const transporter = nodemailer.createTransport({
