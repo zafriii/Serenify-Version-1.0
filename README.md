@@ -297,3 +297,10 @@ Clone the project repository to your local machine using the following command:
 
 ```bash
 git clone https://github.com/yourusername//Serenify-Version-1.0.git
+
+
+## Deployment
+
+- **Backend**: The backend of the application is deployed on [Render](https://render.com/) and can be accessed at `https://serenify-backend.onrender.com`.
+- **Frontend**: The frontend is hosted on [Netlify](https://www.netlify.com/) and is available at `https://serenifymentalwellness.netlify.app`.
+
