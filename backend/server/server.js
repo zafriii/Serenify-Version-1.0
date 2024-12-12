@@ -58,13 +58,9 @@ app.use('/api/reactions', reactiontRouter);
 app.use('/api/cmntreactions', cmntreactiontRouter);
 app.use('/api/replyreactions', replyreactiontRouter);
 app.use('/api/feedback', feedbackRouter);
-
 app.use('/api/notifications', notificationRouter);
-
 app.use('/api/alerts', alertRouter);
-
 app.use('/api/appointments', appointmentRouter);
-
 app.use('/api/moods',moodRouter );
 
 // Middleware for handling errors
